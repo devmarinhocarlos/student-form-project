@@ -4,5 +4,6 @@
 	<li>Spring web</li>
 	<li>Spring data jpa</li>
 	<li>H2 database</li>
+	<li>Angular</li>
 </ul>
 <p>Java version: 17</p>
